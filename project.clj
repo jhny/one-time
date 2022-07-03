@@ -8,7 +8,7 @@
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [commons-codec "1.14"]
                  [ring/ring-codec "1.1.2"]
-                 [com.github.kenglxn.qrgen/javase "2.6.0"]]
+                 [com.google.zxing/javase "3.5.0"]]
   :profiles {:dev {:plugins      [[lein-cloverage "1.1.2"]
                                   [lein-codox "0.10.7"]
                                   [lein-ancient "0.6.15"]]}
